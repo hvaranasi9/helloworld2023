@@ -1,4 +1,4 @@
-# helloworld2023
+# Hello World 2023
 This is our Hello World 2023 Project.
 
 ## About
