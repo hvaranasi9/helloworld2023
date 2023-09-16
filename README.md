@@ -9,7 +9,7 @@ This project will take a user's vocal input about their tone, as well as their S
 - Python
 
 ## Authors
-Sruthi Lingam
-Savni Maheshwari
-Harshu Varanasi
-Netra Joshi
+- Sruthi Lingam
+- Savni Maheshwari
+- Harshu Varanasi
+- Netra Joshi
